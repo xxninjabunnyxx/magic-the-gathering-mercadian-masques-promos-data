@@ -1,0 +1,18 @@
+---
+object: set
+id: 98161b77-01f1-492d-80f2-7fb44f3dd260
+code: pmmq
+name: Mercadian Masques Promos
+uri: https://api.scryfall.com/sets/98161b77-01f1-492d-80f2-7fb44f3dd260
+scryfall_uri: https://scryfall.com/sets/pmmq
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apmmq&unique=prints
+released_at: '1999-10-04'
+set_type: promo
+card_count: 1
+parent_set_code: mmq
+digital: false
+nonfoil_only: false
+foil_only: true
+block_code: mmq
+block: Masques
+icon_svg_uri: https://svgs.scryfall.io/sets/mmq.svg?1694404800
